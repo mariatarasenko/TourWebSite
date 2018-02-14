@@ -3,7 +3,7 @@
 ###To work with this project, you should have installed
 
 1. npm (last version)
-2. gulp-cli 
+2. gulp(last version)
 
 
 
@@ -13,3 +13,4 @@
 2. npm i
 3. gulp
 
+##Now this project in progress . So there is no link :)
